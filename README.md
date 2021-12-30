@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rafaelbarbeta
-- 👀 I’m interested in Cybersecurity, Operating Systems, Computer Networks.
-- 🌱 I’m currently learning basic Linux concepts, Programming in C language and HTML/CSS
-- 💞️ I’m looking to collaborate on HTML and CSS
+- 👀 I’m interested in Cybersecurity, Operating Systems, Computer Networks and Cryptography.
+- 🌱 I’m currently learning basic Linux concepts, Programming in C and Python language and HTML/CSS
+- 💞️ I’m looking to collaborate on HTML/CSS and Python
 - 📫 How to reach me email and through my Junior Enterprise
 
 <!---
