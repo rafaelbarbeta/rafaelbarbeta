@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rafaelbarbeta
 - 👀 I’m interested in Cybersecurity, Operating Systems, Computer Networks and Cryptography.
-- 🌱 I’m currently learning basic Linux concepts, Programming in C/C++, Python, Java and YARA
-- 💞️ I’m looking to collaborate on Python, C and Java
+- 🌱 I’m currently learning Go, BGP and DevOps tools
+- 💞️ I’m looking to collaborate on Python, C, Java, Go, Javascript
 - 📫 How to reach me: email
 
 <!---
